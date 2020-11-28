@@ -25,17 +25,17 @@ Tracker used to document hormone dosage taken per day/week, document symptoms as
 
 **Required Must-have Stories**
 
-*User can register for an account
-*User can login to account
-*User can tap on any day and add/remove symptoms
-*User can tap on any day and add/remove notes
+- [x] *User can register for an account
+- [] *User can login to account
+- [] *User can tap on any day and add/remove symptoms
+- [] *User can tap on any day and add/remove notes
 
 **Optional Nice-to-have Stories**
 
-*User can add a picture in a note, in case they want to track their changes via photos
-*User can use app without logging in
-*There will be an anylsis tab that will list helpful tips and links
-*Have a Discovery tab that will allow users to see others and their symptoms
+- [] *User can add a picture in a note, in case they want to track their changes via photos
+- [] *User can use app without logging in
+- [] *There will be an anylsis tab that will list helpful tips and links
+- [] *Have a Discovery tab that will allow users to see others and their symptoms
 
 ### 2. Screen Archetypes
 
