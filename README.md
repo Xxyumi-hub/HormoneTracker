@@ -90,3 +90,7 @@ Optional:
 
 - Profile Screen 
   - (Read/GET) Query logged in user object
+  
+ # Current Progress
+ <img src="https://github.com/Xxyumi-hub/HormoneTracker/blob/master/gif1_progress.gif">
+  
