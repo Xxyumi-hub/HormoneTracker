@@ -25,7 +25,7 @@ Tracker used to document hormone dosage taken per day/week, document symptoms as
 
 **Required Must-have Stories**
 
-- [x] *User can register for an account
+- [] *User can register for an account
 - [] *User can login to account
 - [] *User can tap on any day and add/remove symptoms
 - [] *User can tap on any day and add/remove notes
@@ -90,7 +90,4 @@ Optional:
 
 - Profile Screen 
   - (Read/GET) Query logged in user object
-  
- # Current Progress
- <img src="https://github.com/Xxyumi-hub/HormoneTracker/blob/master/gif1_progress.gif">
   
